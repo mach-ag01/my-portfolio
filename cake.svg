@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="24" fill="#10141d"/><rect x="28" y="28" width="844" height="464" rx="18" fill="#fff8f3"/>
+<text x="58" y="80" fill="#2d2020" font-family="Arial" font-size="28" font-weight="700">MALCOM CAKE BAKERS</text>
+<text x="58" y="112" fill="#866d6d" font-family="Arial" font-size="15">Cake ordering application</text>
+<rect x="58" y="150" width="250" height="260" rx="18" fill="#f2d7d2"/><circle cx="183" cy="265" r="70" fill="#d69a91"/><rect x="120" y="270" width="126" height="65" rx="10" fill="#fff0e9"/>
+<rect x="340" y="150" width="490" height="62" rx="12" fill="#f8ece8"/><text x="365" y="190" fill="#463333" font-family="Arial" font-size="20">Chocolate Celebration Cake</text>
+<rect x="340" y="235" width="490" height="48" rx="10" fill="#f8ece8"/><text x="365" y="266" fill="#866d6d" font-family="Arial" font-size="16">Quantity   1        KSh 2,500</text>
+<rect x="340" y="305" width="490" height="105" rx="14" fill="#fff" stroke="#ead8d2"/><text x="365" y="338" fill="#463333" font-family="Arial" font-size="17">Delivery details</text><text x="365" y="370" fill="#a18a8a" font-family="Arial" font-size="14">Name • Phone • Location</text>
+<rect x="340" y="430" width="160" height="38" rx="10" fill="#c96f63"/><text x="380" y="455" fill="white" font-family="Arial" font-size="15">Order Now</text></svg>
