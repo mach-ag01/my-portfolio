@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="24" fill="#07111f"/><rect x="28" y="28" width="844" height="464" rx="18" fill="#0d1d31" stroke="#203650"/>
+<text x="58" y="76" fill="#eaf4ff" font-family="Arial" font-size="26" font-weight="700">Network Monitoring Dashboard</text>
+<text x="58" y="108" fill="#8fa8c2" font-family="Arial" font-size="15">Live devices • traffic • uptime</text>
+<rect x="58" y="145" width="240" height="105" rx="12" fill="#122943"/><rect x="330" y="145" width="240" height="105" rx="12" fill="#122943"/><rect x="602" y="145" width="240" height="105" rx="12" fill="#122943"/>
+<text x="80" y="178" fill="#62d2ff" font-family="Arial" font-size="14">ONLINE DEVICES</text><text x="80" y="222" fill="white" font-family="Arial" font-size="32" font-weight="700">48</text>
+<text x="352" y="178" fill="#62d2ff" font-family="Arial" font-size="14">UPTIME</text><text x="352" y="222" fill="white" font-family="Arial" font-size="32" font-weight="700">99.8%</text>
+<text x="624" y="178" fill="#62d2ff" font-family="Arial" font-size="14">TRAFFIC</text><text x="624" y="222" fill="white" font-family="Arial" font-size="32" font-weight="700">1.8 Gbps</text>
+<polyline points="70,400 145,365 215,382 285,315 355,340 430,260 500,292 570,230 650,270 725,190 820,220" fill="none" stroke="#38bdf8" stroke-width="5"/>
+<line x1="60" y1="430" x2="840" y2="430" stroke="#29415e"/><text x="60" y="465" fill="#8fa8c2" font-family="Arial" font-size="14">Sample interface visualization</text></svg>
